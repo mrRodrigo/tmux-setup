@@ -6,3 +6,6 @@ _ref: https://www.josean.com/posts/tmux-setup_
 
 
 [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+
+run manual 
+~/.tmux/plugins/tpm/scripts/install_plugins.sh
